@@ -320,7 +320,7 @@ def bot(op):
                                 "action": {
                                     "type": "uri",
                                     "label": "OPEN CHANNEL",
-                                    "uri": "line://app/1623679774-9GWpqpGw"
+                                    "uri": "line://app/1602687308-9GWpqpGw"
                                     }													
                                 },
                             {
@@ -403,7 +403,7 @@ def bot(op):
                                 "action": {
                                     "type": "uri",
                                     "label": "OPEN CHANNEL",
-                                    "uri": "line://app/1623679774-9GWpqpGw"
+                                    "uri": "line://app/1602687308-9GWpqpGw"
                                     }													
                                 },
                             {
